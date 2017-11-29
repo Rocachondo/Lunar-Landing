@@ -12,6 +12,7 @@ body{font-size:3vw;background-image:url("../img/espacio.jpg");background-repeat:
 #cpanel{font-family: kure;
     font-size: 24px;
     font-weight: bold;
+    background-image:url("../img/cuadro.jpg");
     background-color: darkgrey;
     display: inline-block;
     margin: 30px;

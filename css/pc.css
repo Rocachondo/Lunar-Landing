@@ -17,6 +17,7 @@ body{font-size:3vw;background-image:url("../img/espacio.jpg");background-repeat:
     margin: 30px;
     border-style: solid;
     border-width: 5px;
+    width: auto;
     }
 
 ul {list-style-type: none;}

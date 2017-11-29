@@ -11,8 +11,8 @@ body{font-size:3vw;background-image:url("../img/espacio.jpg");background-repeat:
 #nave img{height:100%;}
 #cpanel{font-family: kure;
     font-size: 24px;
-    font-style: bold;
-    background-color: grey;
+    font-weight: bold;
+    background-color: darkgrey;
     display: inline-block;
     margin: 30px;
     border-style: solid;

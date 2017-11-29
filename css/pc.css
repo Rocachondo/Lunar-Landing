@@ -29,9 +29,9 @@ ul {list-style-type: none;}
 #menu{font-size: 40px;
     color: white;
     display: inline-block;
-    margin: 30px;
-    padding: 20px;
-    text-aling: center;
+    margin: 10px;
+    padding: 10px;
+    text-aling: right;
     }
 
 /*.espacio{background-color:trasparent;display:inline-block;width:75%;height:100%;float:top;}*/

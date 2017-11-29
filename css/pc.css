@@ -1,10 +1,10 @@
 body,html{height:100%;padding:0px;margin:0px}
 body{font-size:3vw;background-image:url("../img/espacio.jpg");background-repeat:no-repeat;position:fixed;}
 
-.a{background-color:transparent;}
+.a{background-color:red;}
 .b{background-color:transparent;}
-.c{background-color:transparent;}
-.a,.b{display:inline-block;width:33.33%;height:75%;float:left;}
+.c{background-color:blue;}
+.a{display:inline-block;width:33.33%;height:75%;float:left;}
 .c{display:inline-block;width:33.33%;height:75%;float:right;}
 
 .luna{background-color:transparent;background-image:url("../img/luna.png");background-repeat:no-repeat;height:25%;width:100%;position:fixed;bottom:0px;z-index:-1;}

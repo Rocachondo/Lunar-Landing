@@ -2,6 +2,42 @@
 <html lang="es-ES">
   
 <head>
-<title>Lunar Landing</title>
-<meta name="description" content="Web de práctica para emular un aterrizaje en la luna"/>
+  <link rel='stylesheet' media='screen and (max-width: 720px)' href='css/mob.css'>
+  <title>Lunar Landing</title>
+  <meta name="description" content="Web de práctica para emular un aterrizaje en la luna"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
+  
+<body>
+<div id="nave">
+  <img src="img/nave.png" alt="img nave">
+</div>
+  
+<div class="a">
+  <div id="imagen"><img src="img/tierra.png" alt="imagen tierra"></div>
+  <ul id="cpanel">
+     <li>VELOCIDAD<br/><span id="velocidad">100</span> m/s</li>
+     <li>FUEL<br/><span id="fuel">500</span> l</li>
+     <li>ALTURA<br/><span id="altura">60</span> m</li>
+   </ul>
+</div>
+  
+<div class="c">
+  <div class="dropdown">
+    <button class="dropdownmenu">
+      <div id="imagen"><img src="img/titulo.png" alt="imagen titulo"></div>
+    </button>
+    <div class="dropdown-content">
+      <ul id="menu">
+        <li class="jugar"><a href="https://www.google.es">JUGAR</a></li>
+        <li class="instrucciones"><a href="https://www.google.es">INSTRUCCIONES</a></li>
+        <li class="acerca"><a href="https://www.google.es">ACERCA DE...</a></li>
+        </ul>
+      </div>
+   </div>
+</div>
+  
+<div class="luna"></div>  
+  
+</body>
+</html>

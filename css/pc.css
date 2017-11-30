@@ -46,6 +46,14 @@ ul {list-style-type: none;}
     width: auto;
     z-index: 1;
     }
+.dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+.dropdown:hover .dropdown-content {
+    display: block;    
+    
 .dropdown:hover .dropdown-content {display: block;}
 
 /*.espacio{background-color:trasparent;display:inline-block;width:75%;height:100%;float:top;}*/

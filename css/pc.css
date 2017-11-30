@@ -16,9 +16,9 @@ ul {list-style-type: none;}
 #altura{background-color:white;border-color:black;border-style:solid;border-width:3px;font-size:30px;}
 #menu{font-size:40px;display:inline-block;margin:30px;padding:20px;position:relative;float:right;}
 #imagen img{display:inline-block;margin:auto;float:right;max-width:100%;height:auto;width:auto;}
-#imagen2 img{display:inline-block;margin:auto;float:right;max-width:100%;min-width:30%;height:auto;width:auto;}
+#imagen2 img{display:inline-block;margin:auto;float:right;max-width:100%;height:auto;width:auto;}
 
-.dropdownmenu{color:white;cursor:pointer;background-color:transparent;border:none;}
+.dropdownmenu{color:white;cursor:pointer;background-color:transparent;border:none;min-width:30%;}
 .dropdown{position:relative;display:block;}
 .dropdown-content{display:none;position:relative;background-color:transparent;width:auto;z-index:1;}
 .dropdown:hover .dropdown-content{display:block;}

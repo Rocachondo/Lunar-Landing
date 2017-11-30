@@ -1,1 +1,28 @@
-.
+body,html{height:100%;padding:0px;margin:0px}
+body{font-family:verdana;font-size:3vw;background-image:url("../img/espacio.jpg");background-color:black;background-repeat:no-repeat;position:fixed;}
+
+.a{background-color:transparent;display:inline-block;width:33.33%;height:75%;float:left;position:fixed;left:0px}
+.c{background-color:transparent;display:inline-block;width:33.33%;height:75%;float:right;position:fixed;right:0px}
+.luna{background-color:transparent;background-image:url("../img/luna.png");background-repeat:no-repeat;height:25%;width:100%;position:fixed;bottom:0px;z-index:-1;}
+
+#nave{text-align:center;position:fixed;top:5%;width:100%;height:20%;}
+#nave img{height:100%;}
+#cpanel{font-size:24px;font-weight:bold;background-image:url("../img/cuadro.jpg");display:inline-block;margin:30px;padding:20px;border-style:solid;border-width:5px;width: auto;}
+
+ul {list-style-type: none;}
+
+#velocidad{background-color:white;border-color:black;border-style:solid;border-width:3px;font-size:30px;}
+#fuel{background-color:white;border-color:black;border-style:solid;border-width:3px;font-size:30px;}
+#altura{background-color:white;border-color:black;border-style:solid;border-width:3px;font-size:30px;}
+#menu{font-size:40px;display:inline-block;margin:30px;padding:20px;position:relative;float:right;}
+#imagen img{display:inline-block;margin:auto;float:right;max-width:100%;height:auto;width:auto;}
+
+.dropdownmenu{color:white;cursor:pointer;background-color:transparent;border:none;}
+.dropdown{position:relative;display:inline-block;}
+.dropdown-content{display:none;position:absolute;background-color:transparent;width:auto;z-index:1;}
+.dropdown:hover .dropdown-content{display:block;}
+    
+a:link{text-decoration:none;}
+a:visited{text-decoration:none;}
+a:hover{text-decoration:none;}
+a:active{text-decoration:none;}

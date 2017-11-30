@@ -50,8 +50,8 @@ ul {list-style-type: none;}
     
 a:link {text-decoration: none;}
 a:visited {text-decoration: none;}
-a:hover {text-decoration: underline;}
-a:active {text-decoration: underline;}    
+a:hover {text-decoration: none;}
+a:active {text-decoration: none;}    
     
 #instrucciones{a href="https://cdn.rawgit.com/Rocachondo/Lunar-Landing/067e383d/index-pc.html";}
     

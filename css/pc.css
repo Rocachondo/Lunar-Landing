@@ -18,7 +18,7 @@ ul {list-style-type: none;}
 #imagen img{display:inline-block;margin:auto;float:right;max-width:100%;height:auto;width:auto;}
 #imagen2 img{display:inline-block;margin:auto;float:right;max-width:100%;height:auto;width:auto;}
 
-.dropdownmenu{color:white;cursor:pointer;background-color:transparent;border:none;min-width:30%;}
+.dropdownmenu{color:white;cursor:pointer;background-color:transparent;border:none;position:relative;}
 .dropdown{position:relative;display:block;}
 .dropdown-content{display:none;position:relative;background-color:transparent;width:auto;z-index:1;}
 .dropdown:hover .dropdown-content{display:block;}

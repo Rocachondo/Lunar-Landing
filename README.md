@@ -6,3 +6,5 @@
 - Se estructura la web con 3 capas (izquierda, derecha y abajo) y se emplean clases para darle forma a los contenedores.
 - Se crea una versión inicial de la web, que ya se ajusta al tamaño de la pantalla sin hacer uso de media query (simplemente por su estructura y atributos de los contenedores). Enlace preliminar https://rawgit.com/Rocachondo/Lunar-Landing/master/index-pc.html
 - Pendiente de agregar los enlaces al menu, modificar el index-mob, incluir media queries, algún sprite y validar.
+
+- Se agrega un dropdown al menú con la imagen de Lunar Landing

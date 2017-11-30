@@ -38,7 +38,7 @@ ul {list-style-type: none;}
 #imagen img{display: inline-block; margin: auto; float: right; max-width: 100%; height: auto; width: auto;}
 
 .dropdownmenu{cursor:pointer;}
-.dropdonn{position: relative;display: inline-block;}
+.dropdown{position: relative;display: inline-block;}
 .dropdown-content {
     display: none;
     position: absolute;

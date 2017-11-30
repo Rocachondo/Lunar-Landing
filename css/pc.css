@@ -41,7 +41,7 @@ ul {list-style-type: none;}
 
 #imagen img{display: inline-block; margin: auto; float: right; max-width: 100%; height: auto; width: auto;}
 
-.dropdownmenu{cursor:pointer;background-color:transparent;border:none;}
+.dropdownmenu{color:white;cursor:pointer;background-color:transparent;border:none;}
 .dropdown{position: relative;display: inline-block;}
 .dropdown-content {
     display: none;

@@ -9,3 +9,4 @@
 
 - Se agrega un dropdown al menú con la imagen de Lunar Landing
 - Al validar el html-pc pone que no puedo incluir un div dentro de un botón...sin embargo, es la única forma que he encontrado de reducir el tamaño de la imagen cuando se reduce el tamaño de la pantalla. Probablemente haya otra forma de hacerlo, pero no me queda tiempo ya para seguir investigando, dejo así con el error: https://cdn.rawgit.com/Rocachondo/Lunar-Landing/0f3d8d9a/index-pc.html
+- Se crea el archivo index.html final que incluye el media query para pc y movil

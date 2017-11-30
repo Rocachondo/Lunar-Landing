@@ -8,3 +8,4 @@
 - Pendiente de agregar los enlaces al menu, modificar el index-mob, incluir media queries, algún sprite y validar.
 
 - Se agrega un dropdown al menú con la imagen de Lunar Landing
+- html-pc validado: https://cdn.rawgit.com/Rocachondo/Lunar-Landing/e6879b85/index-pc.html

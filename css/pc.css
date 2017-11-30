@@ -55,6 +55,7 @@ ul {list-style-type: none;}
     display: block;    
 
 .dropdown:hover .dropbtn {border:none;}
+.dropdown:active .dropbtn {border:none;}  
 .dropdown:hover .dropdown-content {display: block;}
 
     

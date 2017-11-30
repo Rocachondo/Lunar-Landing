@@ -40,7 +40,7 @@ ul {list-style-type: none;}
 .dropdownmenu{cursor:pointer;background-color:transparent;border:none;}
 .dropdown{position: relative;display: inline-block;}
 .dropdown-content {
-    display: none;
+    display: block;
     position: absolute;
     background-color:transparent;
     width: auto;

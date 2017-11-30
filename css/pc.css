@@ -55,7 +55,14 @@ ul {list-style-type: none;}
     display: block;    
     
 .dropdown:hover .dropdown-content {display: block;}
-
+    
+a:link {text-decoration: none;}
+a:visited {text-decoration: none;}
+a:hover {text-decoration: underline;}
+a:active {text-decoration: underline;}    
+    
+#instrucciones{a href="https://cdn.rawgit.com/Rocachondo/Lunar-Landing/067e383d/index-pc.html";}
+    
 /*.espacio{background-color:trasparent;display:inline-block;width:75%;height:100%;float:top;}*/
 /*.tierra{background-color:trasparent;display:inline-block;width:33%;height:33%;float:bottom;z-index:-1;}*/
 /*#img2 img{display: block; margin: auto; width: 100%;}*/

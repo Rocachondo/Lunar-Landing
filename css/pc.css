@@ -37,6 +37,17 @@ ul {list-style-type: none;}
 
 #imagen img{display: inline-block; margin: auto; float: right; max-width: 100%; height: auto; width: auto;}
 
+.dropdownmenu{cursor:pointer;}
+.dropdonn{position: relative;display: inline-block;}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color:transparent;
+    width: auto;
+    z-index: 1;
+    }
+.dropdown:hover .dropdown-content {display: block;}
+
 /*.espacio{background-color:trasparent;display:inline-block;width:75%;height:100%;float:top;}*/
 /*.tierra{background-color:trasparent;display:inline-block;width:33%;height:33%;float:bottom;z-index:-1;}*/
 /*#img2 img{display: block; margin: auto; width: 100%;}*/

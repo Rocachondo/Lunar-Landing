@@ -19,11 +19,11 @@ ul {list-style-type: none;}
 #imagen2 img{display:inline-block;margin:auto;float:right;max-width:100%;height:auto;width:auto;}
 
 .dropdownmenu{color:white;cursor:pointer;background-color:transparent;border:none;}
-.dropdown{position:relative;display:inline-block;}
-.dropdown-content{display:none;position:absolute;background-color:transparent;width:auto;z-index:1;}
+.dropdown{position:relative;display:block;}
+.dropdown-content{display:none;position:relative;background-color:transparent;width:auto;z-index:1;}
 .dropdown:hover .dropdown-content{display:block;}
     
 a:link{text-decoration:none;}
 a:visited{text-decoration:none;}
 a:hover{text-decoration:none;}
-a:active{text-decoration:none;}
+a:active{text-decoration:none;}  

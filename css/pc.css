@@ -14,7 +14,7 @@ ul {list-style-type: none;}
 #velocidad{background-color:white;border-color:black;border-style:solid;border-width:3px;font-size:30px;}
 #fuel{background-color:white;border-color:black;border-style:solid;border-width:3px;font-size:30px;}
 #altura{background-color:white;border-color:black;border-style:solid;border-width:3px;font-size:30px;}
-#menu{font-size:40px;display:inline-block;margin:30px;padding:20px;position:relative;float:right;height:auto;width:auto;}
+#menu{font-size:40px;display:inline-block;margin:30px;padding:20px;position:fixed;float:right;height:auto;width:auto;}
 #imagen img{display:inline-block;margin:auto;float:right;max-width:100%;height:auto;width:auto;}
 /*#imagen2 img{display:inline-block;margin:auto;float:right;max-width:100%;height:auto;width:auto;}*/
 

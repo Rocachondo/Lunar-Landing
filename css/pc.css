@@ -15,7 +15,7 @@ ul {list-style-type: none;}
 #fuel{background-color:white;border-color:black;border-style:solid;border-width:3px;font-size:30px;}
 #altura{background-color:white;border-color:black;border-style:solid;border-width:3px;font-size:30px;}
 
-#menu{font-size:40px;display: inline-block;margin: 30px;padding: 20px;position: relative;float: right;}
+#menu{font-size:40px;display:inline-block;margin:30px;padding:20px;position:relative;float:right;}
 
 #imagen img{display:inline-block;margin:auto;float:right;max-width:100%;height:auto;width:auto;}
 
@@ -24,8 +24,8 @@ ul {list-style-type: none;}
 .dropdown-content{display:none;position:absolute;background-color:transparent;width:auto;z-index:1;}
 .dropdown:hover .dropdown-content{display:block;}
     
-a:link{text-decoration: none;}
-a:visited{text-decoration: none;}
-a:hover{text-decoration: none;}
-a:active{text-decoration: none;}    
+a:link{text-decoration:none;}
+a:visited{text-decoration:none;}
+a:hover{text-decoration:none;}
+a:active{text-decoration:none;}    
     
